@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const HeroSection = () => {
-  const title = "Expertos en electricidad";
+  const title = "Soluciones Electricas";
   const [visibleChars, setVisibleChars] = useState(0);
   const [loaded, setLoaded] = useState(false);
 
